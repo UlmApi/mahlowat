@@ -51,7 +51,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
     <h2>Mitmachen!</h2>
     
-    <p>Wir freuen uns über alle Einsendungen, um den Kandidat_innen einen möglichst vielfältigen Fragenkatalog zu allen Aspekten der Stadtpolitik vorlegen zu können! Einreichungen nehmen wir bis zum 22.10. per E-Mail an ob-mat 'at' ulmapi.de oder <a href="https://www.facebook.com/datalove.ulm">per Facebook-Message</a> entgegen!</p>
+    <p>Wir freuen uns über alle Einsendungen, um den Kandidat_innen einen möglichst vielfältigen Fragenkatalog zu allen Aspekten der Stadtpolitik vorlegen zu können! Einreichungen nehmen wir bis zum 22.10. per E-Mail an ob-mat 'at' ulmapi.de, <a href="http://twitter.com/ulmapi">über Twitter</a> (angesichts der Zeichenbegrenzung vielleicht nicht so sinnvoll) oder <a href="https://www.facebook.com/datalove.ulm">per Facebook-Message</a> entgegen!</p>
 
     <!-- <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
     
