@@ -27,7 +27,7 @@
 	$css[14] = "superhero.min.css";
 	$css[15] = "united.min.css";
 	$css[16] = "yeti.min.css";
-	$css_id = 9;
+	$css_id = 16;
 	if(isset($_GET['css'])){
 		$css_id = intval($_GET['css']);
 		if($css_id < 0 || $css_id > 16){
@@ -105,19 +105,19 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mahlowat - Ergebnis</title>
+    <title>OB-Mat - Ergebnis</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta content="Mahlowat">
     
-    <meta name="image_src" content="img/mahlowat_logo.png"/>
-    <meta name="description" content="Mein Mahlowat-Ergebnis"/>
+    <meta name="image_src" content="img/OB-Mat_logo.png"/>
+    <meta name="description" content="Mein OB-Mat-Ergebnis"/>
     
-    <meta property="og:title" content="Mahlowat"/>
+    <meta property="og:title" content="OB-Mat"/>
     <meta property="og:type"  content="website"/>
-    <meta property="og:image" content="img/mahlowat_logo.png"/>
+    <meta property="og:image" content="img/OB-Mat_logo.png"/>
     <meta property="og:url"   content=""/>
-    <meta property="og:site-name" content="akut-bonn.de"/>
-    <meta property="og:description" content="Mein Mahlowat-Ergebnis"/>
+    <meta property="og:site-name" content="ob-mat.ulmapi.de"/>
+    <meta property="og:description" content="Mein OB-Mat-Ergebnis"/>
     
     
     <!--<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">-->
@@ -135,7 +135,7 @@
   <body>
 
   <div class="container" style="margin-top: 20px;">
-      <img src="img/mahlowat_logo.png" title="Mahlowat Logo" class="pull-right" onclick="changeText()"/>
+      <img src="img/OB-Mat_logo.png" title="OB-Mat-Logo" class="pull-right" onclick="changeText()"/>
 	<p id="spruch" class="pull-right"></p>
 	
       <div class="bottom-buffer top-buffer">

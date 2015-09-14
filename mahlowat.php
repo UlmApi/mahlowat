@@ -31,7 +31,7 @@
 	$css[14] = "superhero.min.css";
 	$css[15] = "united.min.css";
 	$css[16] = "yeti.min.css";
-	$css_id = 9;
+	$css_id = 16;
 	if(isset($_GET['css'])){
 		$css_id = intval($_GET['css']);
 		if($css_id < 0 || $css_id > 16){
@@ -79,9 +79,9 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mahlowat</title>
+    <title>OB-Mat</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
-    <meta content="Mahlowat">
+    <meta content="OB-Mat">
     <!--<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">-->
     <link href="css/<?php echo $css[$css_id];?>" rel="stylesheet" media="screen">
     
@@ -100,9 +100,7 @@
 					<h4 class="modal-title" id="myModalLabel">Statistik</h4>
 				</div>
 				<div class="modal-body">
-					Erlaubst du, dass dein Aufruf für die Statistik gezählt wird?<br>
-					Falls du Nein auswählst, bist du lediglich als Logeintrag auf dem Server verewigt.<br>
-					<small><a href="faq.php#log" target="_blank">Ich will aber gar keinen Logeintrag!</a></small>
+					Darf dein Ergebnis anonymisiert für die Statistik gezählt werden?
 				</div>
 				<div class="modal-footer">
 					<button type="button" class="btn btn-default" onclick="callResult(false)" style="width: 100px;"><span class="glyphicon glyphicon-remove"></span> Nein</button>
@@ -113,7 +111,7 @@
 	</div>
   
   <div class="container" style="margin-top: 20px;">
-	<img src="img/mahlowat_logo.png" title="Mahlowat Logo" class="pull-right" onclick="changeText('mahlowat')"/>
+	<img src="img/OB-Mat_logo.png" title="OB-Mat-Logo" class="pull-right" onclick="changeText('mahlowat')"/>
 	<p id="spruch" class="pull-right"></p>
 	<div class="bottom-buffer top-buffer">
   

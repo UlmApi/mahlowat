@@ -28,7 +28,7 @@
 	$css[14] = "superhero.min.css";
 	$css[15] = "united.min.css";
 	$css[16] = "yeti.min.css";
-	$css_id = 9;
+	$css_id = 16;
 	if(isset($_GET['css'])){
 		$css_id = intval($_GET['css']);
 		if($css_id < 0 || $css_id > 16){
@@ -76,7 +76,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Mahlowat - Ergebnis</title>
+    <title>OB-Mat - Ergebnis</title>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
     <meta content="">
     <!--<link href="css/bootstrap.min.css" rel="stylesheet" media="screen">-->
@@ -121,7 +121,7 @@
      <?php } ?>
   
   <div class="container mow-container" style="margin-top: 20px;">
-      <img src="img/mahlowat_logo.png" title="Mahlowat Logo" class="pull-right" onclick="changeText()"/>
+      <img src="img/OB-Mat_logo.png" title="OB-Mat-Logo" class="pull-right" onclick="changeText()"/>
 	<p id="spruch" class="pull-right"></p>
 	
       <div class="bottom-buffer top-buffer">
