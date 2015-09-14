@@ -38,7 +38,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
     <meta property="og:description" content="Der OB-Mat ist ein Angebot von datalove ulm/OK Lab Ulm für die Oberbürgermeisterwahl 2015. Er ermöglicht es, zu ausgewählten Themen die eigenen Standpunkte mit denen der Listen abzugleichen, die zur Wahl antreten."/>
     
     <link href="css/yeti.min.css" rel="stylesheet" media="screen">
-    <link href="css/bootstrap-responsive.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/font-awesome.min.css">
     
     <link rel="stylesheet" type="text/css" href="css/style.css">
