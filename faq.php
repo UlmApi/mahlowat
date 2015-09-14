@@ -29,7 +29,7 @@
   
   <script src="js/jquery-2.0.2.min.js"></script>
   <script src="js/bootstrap.min.js"></script>
-  <script src="js/OB-Mat.js"></script>
+  <script src="js/mahlowat.js"></script>
   
   <div class="container mow-container" style="margin-top: 20px;">
       <a href="http://codefor.de"><img src="img/CFG_logo.svg" height="50px"></a> <a href="http://www.ulmapi.de"><img src="img/ulmapi.svg" height="50px"></a>
@@ -49,10 +49,10 @@
     <p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>
     
     <h4>Von welcher Wahl reden wir hier überhaupt?</h4>
-    <p>Von der Oberbürgermeisterwahl Ulm 2015.</p>
+    <p>Von der <a href="https://www.ulm.de/politik_verwaltung/rathaus/oberbuergermeisterwahl.4147.3076,3571,3744,4323,4147.htm">Oberbürgermeisterwahl Ulm 2015</a>, die am 29. November 2015 stattfindet.</p>
     
     <h4>Wer hat das hier programmiert?</h4>
-    <p>Der <a href="http://hszemi.de" title="hszemi.de" target="_blank">Sven</a>, weil der das kann. Die lokale technische Umsetzung wird von <a href="http://stefan.bloggt.es">Stefan Kaufmann</a> und <a href="http://twitter.com/namnatulco">Rens van der Heijden</a> betreut, die im OK Lab Ulm aktiv sind.</p>
+    <p>Der <a href="http://hszemi.de" title="hszemi.de" target="_blank">Sven</a>, weil der das kann. Die lokale technische Umsetzung und Anpassung wird von <a href="http://stefan.bloggt.es">Stefan Kaufmann</a> und <a href="http://twitter.com/namnatulco">Rens van der Heijden</a> betreut, die im OK Lab Ulm aktiv sind.</p>
     
     <h4>Funktioniert das hier wie das Vorbild der bpb?</h4>
     <p>Es wurde versucht, die Punkteberechnung so wie beim „echten“ W***-O-Mat zu gestalten, siehe nächste Frage/Antwort. Der W***-O-Mat ist eine eingetragene Marke der bpb, weswegen wir auf eine Namensnennung vorsichtshalber verzichten. Vergleichbare Angebote gibt es auch von den OK Labs in <a href="http://codefor.de/projekte/2015-09-05-bn-bonn-o-mat.html">Bonn</a> und in <a href="http://opendatal.de/2015/talomat-2-0/">Wuppertal</a>, die uns dankenswerterweise viel Input gegeben haben!</p>
