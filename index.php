@@ -42,9 +42,9 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
   <div class="text-center">
     <h1><small>Der</small> OB-Mat <small>für Ulm</small></h1>
   </div>
-    <p>Der OB-Mat ist ein technisches Hilfsmittel, das es ermöglicht, zu ausgewählten Themen die eigenen Standpunkte mit denen der Kandidat_innen abzugleichen, die zur Ulmer Oberbürgermeisterwahl 2015 antreten.</p>
+    <p>Mit dem OB-Mat kannst Du zu ausgewählten Themen Deine eigenen Standpunkte mit denen der Kandidat_innen der Ulmer Oberbürgermeisterwahl 2015 abgleichen.</p>
     
-    <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus.</p>
+    <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus – kann und soll aber gerne als Anhaltspunkt und Gedankenanreger dienen.</p>
 
     <h2>Wann geht der OB-Mat „richtig“ online?</h2>
     <p>Bis zum <strong>22.10.</strong> suchen wir Fragen für einen vielseitigen und hoffentlich auch hinreichend polarisierenden Fragenkatalog, den wir den Kandidat_innen vorlegen werden. Am Wochenende des <strong>25.10.</strong> wird das <a href="http://www.ulmapi.de">Open Knowledge Lab Ulm</a> gemeinsam mit einer Auswahlkommission die eingereichten Fragen sichten und einen Fragenkatalog erarbeiten. Ab dem <strong>29.10.</strong> – also vier Wochen vor dem Wahltermin – wird der OB-Mat dann allen Interessierten zur Verfügung stehen!</p>
