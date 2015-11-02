@@ -110,7 +110,7 @@
   <body>
 
   <div class="container" style="margin-top: 20px;">
-      <img src="img/OB-Mat_logo.png" title="OB-Mat-Logo" class="pull-right" onclick="changeText()"/>
+      <a href="/"><img src="img/OB-Mat_logo.png" title="OB-Mat-Logo" class="pull-right" onclick="changeText()"/></a>
 	<p id="spruch" class="pull-right"></p>
 
       <div class="bottom-buffer top-buffer">
