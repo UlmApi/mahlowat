@@ -7,9 +7,6 @@ body {
     margin-bottom: 20px;
 }
 
-.lead {
-    padding: 10px;
-}
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
     color: #6e6b67;
@@ -37,6 +34,10 @@ body {
 @media (min-width:992px) {
   .container {
     width: 970px;
+  }
+
+  .lead {
+    padding: 10px;
   }
 }
 @media (min-width:1200px) {
