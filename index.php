@@ -66,13 +66,13 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
     <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus – kann und soll aber gerne als Anhaltspunkt und Gedankenanreger dienen.</p>
 
-    <h2>Wann geht der OB-Mat „richtig“ online?</h2>
-    <p>Bis zum <strong>22.10.</strong> suchen wir Fragen für einen vielseitigen und hoffentlich auch hinreichend polarisierenden Fragenkatalog, den wir den Kandidat_innen vorlegen werden. Am Wochenende des <strong>25.10.</strong> wird das <a href="http://www.ulmapi.de">Open Knowledge Lab Ulm</a> gemeinsam mit einer Auswahlkommission die eingereichten Fragen sichten und einen Fragenkatalog erarbeiten. Ab dem <strong>3.11.</strong> – also knapp vier Wochen vor dem Wahltermin – wird der OB-Mat dann allen Interessierten zur Verfügung stehen!</p>
+    <h2>Wann gehs endlich los?</h2>
+    <p><strong>Bald, bald!</strong> Also, äh, folgendes: Wir hatten bis zum Wochenende des 22.10. Thesen und Fragen gesammelt, durch die wir uns durchsortieren mussten, um ein passendes Thesenfeld aufzubauen. Jede Frage zählt schließlich, damit sich die Ergebnisse dann auch unterscheiden.</p>
 
-    <h2>Mitmachen!</h2>
+<p>Um auch noch die Podiumsdiskussion vom 27.10. mitnehmen zu können, haben wir den Katalog nicht schon am 26.10. versandt (das war der ursprüngliche Plan), sondern erst in der Nacht vom 29. auf den 30.10. – mit dem Ziel, bis zum 3.11. alle Antworten zu haben, um online gehen zu können. Guter Plan, oder? <strong>Pustekuchen.</strong></p>
 
-    <p>Wir freuen uns über alle Einsendungen, um den Kandidat_innen einen möglichst vielfältigen Fragenkatalog zu allen Aspekten der Stadtpolitik vorlegen zu können!</p>
-    <p>Einreichungen nehmen wir bis zum 22.10. per E-Mail an ob-mat 'at' ulmapi.de, <a href="http://twitter.com/ulmapi">über Twitter</a> (angesichts der Zeichenbegrenzung vielleicht nicht so sinnvoll) oder <a href="https://www.facebook.com/datalove.ulm">per Facebook-Message</a> entgegen!</p>
+<p>Wir haben zwar nun schon eine ganze Reihe von Stellungnahmen und würden gerne loshibbeln. Herrn Milde als geheimen Zusatzkandidaten konnten wir aber erst gestern erreichen. Auch zu Frau Çalışkan kam erst kurzfristig Kontakt zustande. Und noch viel bedauerlicher: Andere Kandidaten haben unsere Donnerstag-Nacht-Mail wohl erst Montag vorgelegt bekommen. Wir vertagen uns daher vorerst auf <strong>Mittwoch, 4.11.</strong> – das wird ja sicher zu schaffen sein, liebe Kandidat_innen</p>
+
 
     <!-- <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
 
