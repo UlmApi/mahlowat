@@ -101,7 +101,7 @@
 				<button id='yes' type='submit' class='btn btn-success btn-block' name='yes' onclick="nextThesis('a')"><span class="glyphicon glyphicon-thumbs-up"></span> Zustimmung</button>
 			</div>
 			<div class="col-xs-12 col-sm-2 col-md-2 option">
-				<button id='neutral' type='submit' class='btn btn-info btn-block' name='neutral' onclick="nextThesis('b')"><span class="glyphicon glyphicon-tree-deciduous"></span> Neutral</button>
+				<button id='neutral' type='submit' class='btn btn-warning btn-block' name='neutral' onclick="nextThesis('b')"><span class="glyphicon glyphicon-tree-deciduous"></span> Neutral</button>
 			</div>
 			<div class="col-xs-12 col-sm-2 col-md-2 option">
 				<button id='no' type='submit' class='btn btn-danger btn-block' name='no' onclick="nextThesis('c')"><span class="glyphicon glyphicon-thumbs-down"></span> Ablehnung</button>
