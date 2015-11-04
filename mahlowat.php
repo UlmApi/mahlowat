@@ -264,25 +264,25 @@
 			case 'a':
 			case 'e':
 				$('#yes').addClass('btn-success');
-				$('#neutral').removeClass('btn-info');
+				$('#neutral').removeClass('btn-warning');
 				$('#no').removeClass('btn-danger');
 				break;
 			case 'b':
 			case 'f':
 				$('#yes').removeClass('btn-success');
-				$('#neutral').addClass('btn-info');
+				$('#neutral').addClass('btn-warning');
 				$('#no').removeClass('btn-danger');
 				break;
 			case 'c':
 			case 'g':
 				$('#yes').removeClass('btn-success');
-				$('#neutral').removeClass('btn-info');
+				$('#neutral').removeClass('btn-warning');
 				$('#no').addClass('btn-danger');
 				break;
 			case 'd':
 			case 'h':
 				$('#yes').addClass('btn-success');
-				$('#neutral').addClass('btn-info')
+				$('#neutral').addClass('btn-warning')
 				$('#no').addClass('btn-danger');
 				break;
 		}
