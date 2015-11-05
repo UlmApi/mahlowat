@@ -166,7 +166,7 @@
 
      <div id="result-bars">
      <table class="table table-bordered table-hover">
-     <tr><th style="width: 200px;">Liste</th><th style="width:100px">Punkte</th><th style="width:640px;">Punkte</th></tr>
+     <tr><th style="width: 200px;">Kandidat*in</th><th style="width:100px">Punkte</th><th style="width:640px;">Punkte</th></tr>
             <?php
                   $top = calculate_points($data['answers'][0], $answers);
                   for($i = 0; $i < sizeof($data['answers']); $i++){
@@ -183,7 +183,7 @@
     <div id="result-table">
     <div class="panel panel-default">
 	<div class="panel-body">
-		Listen ein-/ausblenden:
+		Kandidat*innen ein-/ausblenden:
 		<?php
 			for($i = 0; $i < sizeof($data['lists']); $i = $i + 1){
 				$classname = string_to_css_classname($data['lists'][$i]['name']);
@@ -193,7 +193,7 @@
 	</div>
     </div>
 
-    <p><small>Thesen mit <span class="glyphicon glyphicon-star" title="Sternchen"></span> fandest du besonders wichtig.<br> Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Listen in einer Übersicht angezeigt.</small></p>
+    <p><small>Thesen mit <span class="glyphicon glyphicon-star" title="Sternchen"></span> fandest du besonders wichtig.<br> Wenn du auf den Button mit dem Namen der These klickst, bekommst du die Statements der Kandidat*innen in einer Übersicht angezeigt.</small></p>
 
     <table class="table table-bordered" id="resulttable">
       <tr id="tableheader"><th> </th><th>Deine Wahl</th>
@@ -228,7 +228,7 @@
       oder die
       <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">Gewichtung anpassen</a>.<?php } ?><br />
       Außerdem haben wir auch eine <a href="faq.php?from=result.php<?php if($share_via_id){echo $sharelink;}?>" onclick="callPage(event, 'faq.php?from=result.php<?php if($share_via_id){echo $sharelink;} echo "', '$answerstring', '$count'";?>)" title="FAQ">FAQ-Seite</a>.<br />
-      Lizenzinformationen: Foto von Sevda Çalışkan <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> <a href='http://www.billybill.de/'>Bilal Çalışkan</a>. Foto von Lisa Collins <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Gerhard Kupfer. Foto von Anja Hirschel <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Piratenpartei Ulm/Alb-Donau-Kreis. Foto von Martin Rivoir <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Conné van d' Gachten. Foto von Birgit Schäfer-Oelmayer <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a>.
+      Lizenzinformationen: Foto von Sevda Çalışkan <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> <a href='http://www.billybill.de/'>Bilal Çalışkan</a>. Foto von Lisa Collins <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Gerhard Kupfer. Foto von Gunter Czisch <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Sabine Trucksäß. Foto von Anja Hirschel <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Piratenpartei Ulm/Alb-Donau-Kreis. Foto von Martin Rivoir <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Conné van d' Gachten. Foto von Birgit Schäfer-Oelmayer <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a>.
       </small>
     </div>
     </div>
