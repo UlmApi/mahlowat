@@ -228,7 +228,7 @@
       oder die
       <a href="multiplier.php" onclick="callPage(event, 'multiplier.php', <?php echo "'$answerstring', '$count'";?>)" title="Gewichtung ändern">Gewichtung anpassen</a>.<?php } ?><br />
       Außerdem haben wir auch eine <a href="faq.php?from=result.php<?php if($share_via_id){echo $sharelink;}?>" onclick="callPage(event, 'faq.php?from=result.php<?php if($share_via_id){echo $sharelink;} echo "', '$answerstring', '$count'";?>)" title="FAQ">FAQ-Seite</a>.<br />
-      Foto von Sevda Çalışkan <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> <a href='http://www.billybill.de/'>Bilal Çalışkan</a>. Foto von Anja Hirschel <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Piratenpartei Ulm/Alb-Donau-Kreis. Foto von Martin Rivoir <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Conné van d' Gachten. Foto von Birgit Schäfer-Oelmayer <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a>.
+      Lizenzinformationen: Foto von Sevda Çalışkan <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> <a href='http://www.billybill.de/'>Bilal Çalışkan</a>. Foto von Lisa Collins <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Gerhard Kupfer. Foto von Anja Hirschel <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Piratenpartei Ulm/Alb-Donau-Kreis. Foto von Martin Rivoir <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a> Conné van d' Gachten. Foto von Birgit Schäfer-Oelmayer <a href='http://creativecommons.org/licenses/by/4.0/deed.de'>CC-BY 4.0</a>.
       </small>
     </div>
     </div>
