@@ -71,7 +71,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
 <p>Um auch noch die Podiumsdiskussion vom 27.10. mitnehmen zu können, haben wir den Katalog nicht schon am 26.10. versandt (das war der ursprüngliche Plan), sondern erst in der Nacht vom 29. auf den 30.10. – mit dem Ziel, bis zum 3.11. alle Antworten zu haben, um online gehen zu können. Guter Plan, oder? <strong>Pustekuchen.</strong></p>
 
-<p>Wir haben zwar nun schon eine ganze Reihe von Stellungnahmen und würden gerne loshibbeln. Herrn Milde als geheimen Zusatzkandidaten konnten wir aber erst gestern erreichen. Auch zu Frau Çalışkan kam erst kurzfristig Kontakt zustande. Und noch viel bedauerlicher: Andere Kandidaten haben unsere Donnerstag-Nacht-Mail wohl erst Montag vorgelegt bekommen. Wir vertagen uns daher vorerst auf <strong>Mittwoch, 4.11.</strong> – das wird ja sicher zu schaffen sein, liebe Kandidat_innen</p>
+<p>Wir haben zwar nun schon eine ganze Reihe von Stellungnahmen und würden gerne loshibbeln. Herrn Milde als geheimen Zusatzkandidaten konnten wir aber erst gestern erreichen. Auch zu Frau Çalışkan kam erst kurzfristig Kontakt zustande. Und noch viel bedauerlicher: Andere Kandidaten haben unsere Donnerstag-Nacht-Mail wohl erst Montag vorgelegt bekommen. Wir vertagen uns daher vorerst auf <strong><strike>Mittwoch, 4.11.</strike></strong> <strong>Freitag, 5.11.</strong>, dann aber endgueltig ;)</p>
 
 
     <!-- <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
