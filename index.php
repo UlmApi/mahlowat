@@ -66,17 +66,9 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
     <p>Er ist selbstverständlich nur als Automat ohne Hirn zu verstehen und spricht keine Wahlempfehlungen aus – kann und soll aber gerne als Anhaltspunkt und Gedankenanreger dienen.</p>
 
-    <h2>Wann gehs endlich los?</h2>
-    <p><strong>Bald, bald!</strong> Also, äh, folgendes: Wir hatten bis zum Wochenende des 22.10. Thesen und Fragen gesammelt, durch die wir uns durchsortieren mussten, um ein passendes Thesenfeld aufzubauen. Jede Frage zählt schließlich, damit sich die Ergebnisse dann auch unterscheiden.</p>
+    <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
 
-<p>Um auch noch die Podiumsdiskussion vom 27.10. mitnehmen zu können, haben wir den Katalog nicht schon am 26.10. versandt (das war der ursprüngliche Plan), sondern erst in der Nacht vom 29. auf den 30.10. – mit dem Ziel, bis zum 3.11. alle Antworten zu haben, um online gehen zu können. Guter Plan, oder? <strong>Pustekuchen.</strong></p>
-
-<p>Wir haben zwar nun schon eine ganze Reihe von Stellungnahmen und würden gerne loshibbeln. Herrn Milde als geheimen Zusatzkandidaten konnten wir aber erst gestern erreichen. Auch zu Frau Çalışkan kam erst kurzfristig Kontakt zustande. Und noch viel bedauerlicher: Andere Kandidaten haben unsere Donnerstag-Nacht-Mail wohl erst Montag vorgelegt bekommen. Wir vertagen uns daher vorerst auf <strong><strike>Mittwoch, 4.11.</strike></strong> <strong>Freitag, 5.11.</strong>, dann aber endgueltig ;)</p>
-
-
-    <!-- <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
-
-    <p class="text-center"><a class="btn btn-large btn-primary" href="mahlowat.php" title="OB-Mat starten">Mit der Befragung beginnen!</a></p>-->
+    <p class="text-center"><a class="btn btn-large btn-primary" href="mahlowat.php" title="OB-Mat starten">Mit der Befragung beginnen!</a></p>
 
     <p class="text-center"><a href="faq.php" title="Fragen und Antworten"><small>Fragen und Antworten: FAQ</small></a></p>
 

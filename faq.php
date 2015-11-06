@@ -44,17 +44,17 @@
     <p>Der OB-Mat ist ein Angebot der datalove-Arbeitsgruppe bzw. des <a href="http://codefor.de/ulm">Open Knowledge Lab Ulm</a>, die auch hinter <a href="http://www.ulmapi.de">ulmapi.de</a> stecken. Das Projekt soll zur Meinungsbildung beitragen, ohne Partei zu ergreifen.</p>
 
     <h4>Wer hat die Thesen erarbeitet?</h4>
-    <p>Die Thesen entstehen bis zum <strong>22. Oktober 2015</strong> und werden in einer Arbeitsgruppe rund um das OK Lab Ulm erarbeitet. Die genaue Personenzusammensetzung wird hier veröffentlicht, sobald sie feststeht.</p>
+    <p>Die Thesen entstanden durch Einsendungen bis zum 22. Oktober 2015 und wurden danach in einer Arbeitsgruppe rund um das OK Lab Ulm erarbeitet.</p>
 
     <h4>Wo kommen die Positionen der Kandidat_innen her?</h4>
-    <p>Den zur Wahl antretenden Kandidat_innen werden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) können sie ihre Position auch in einem kurzen Absatz erläutern.</p>
-    <p>Für ihre Stellungnahmen zu den Thesen sind die Gruppen selbst verantwortlich.</p>
+    <p>Den zur Wahl antretenden Kandidat_innen wurden die Thesen mit der Bitte um Stellungnahme zugeleitet. Neben der reinen Positionierung (Zustimmung/Neutral/Ablehnung/Keine Stellungnahme) konnten sie ihre Position auch in einem kurzen Absatz erläutern.</p>
+    <p>Für ihre Stellungnahmen zu den Thesen sind die Kandidat_innen selbst verantwortlich.</p>
 
     <h4>Von welcher Wahl reden wir hier überhaupt?</h4>
     <p>Von der <a href="https://www.ulm.de/politik_verwaltung/rathaus/oberbuergermeisterwahl.4147.3076,3571,3744,4323,4147.htm">Oberbürgermeisterwahl Ulm 2015</a>, die am 29. November 2015 stattfindet.</p>
 
     <h4>Wer hat das hier programmiert?</h4>
-    <p>Der <a href="http://hszemi.de" title="hszemi.de" target="_blank">Sven</a>, weil der das kann. Die lokale technische Umsetzung und Anpassung wird von <a href="http://stefan.bloggt.es">Stefan Kaufmann</a> und <a href="http://twitter.com/namnatulco">Rens van der Heijden</a> betreut, die im OK Lab Ulm aktiv sind.</p>
+    <p>Der <a href="http://hszemi.de" title="hszemi.de" target="_blank">Sven</a>, weil der das kann. Die lokale technische Umsetzung und Anpassung wird von <a href="http://stefan.bloggt.es">Stefan Kaufmann</a> und <a href="http://twitter.com/namnatulco">Rens van der Heijden</a> betreut, die im OK Lab Ulm aktiv sind. Schützenhilfe haben sie unter anderem von <a href='https://github.com/mmk2410'>Marcel Kapfer</a> und <a href='https://twitter.com/gruenzeug'>Juliane Wessalowski</a> bekommen.</p>
 
     <h4>Funktioniert das hier wie das Vorbild der bpb?</h4>
     <p>Es wurde versucht, die Punkteberechnung so wie beim „echten“ W***-O-Mat zu gestalten, siehe nächste Frage/Antwort. Der W***-O-Mat ist eine eingetragene Marke der bpb, weswegen wir auf eine Namensnennung vorsichtshalber verzichten. Vergleichbare Angebote gibt es auch von den OK Labs in <a href="http://codefor.de/projekte/2015-09-05-bn-bonn-o-mat.html">Bonn</a> und in <a href="http://opendatal.de/2015/talomat-2-0/">Wuppertal</a>, die uns dankenswerterweise viel Input gegeben haben!</p>
@@ -78,7 +78,7 @@
     <p>Unser Webserver legt bei jedem Seitenaufruf einen Log-Eintrag an, der unter anderem einen Zeitstempel, deine IP-Adresse und die aufgerufene URL enthält. Es wäre also unaufrichtig, dir vorzumachen, dass dein Aufruf des OB-Mat nicht gezählt wird. Der OB-Mat wurde jedoch so konzipiert, dass aus den Server-Logdateien nicht ersichtlich ist, welche Antworten du ausgewählt hast. Dies sehen wir tatsächlich nur, wenn du dem am Ende explizit zustimmst.</p>
 
     <h4>Ich habe einen Fehler gefunden!</h4>
-    <p>Dann solltest du das melden. Wir freuen uns über sachdienliche Hinweise!</p>
+    <p>Dann solltest du das melden ;) Wir freuen uns über sachdienliche Hinweise!</p>
 
     <a class="btn btn-primary" href="<?php echo $back; ?>" onclick="callPage(event, '<?php echo $back; ?>')" title="Zurück zum OB-Mat">Zurück zum OB-Mat</a>
   </div>
