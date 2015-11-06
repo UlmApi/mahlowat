@@ -56,7 +56,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
 
   <a href="http://codefor.de"><img src="img/CFG_logo.svg" height="50px"></a> <a href="http://www.ulmapi.de"><img src="img/ulmapi.svg" height="50px"></a>
-  <a href="/"><img class="pull-right" src="img/OB-Mat_logo.svg" title="OB-Mat-Logo"/></a>
+  <a href="/"><img class="pull-right" src="img/OB-Mat_logo.png" title="OB-Mat-Logo"/></a>
 
 
   <div class="text-center">
