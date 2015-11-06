@@ -77,6 +77,13 @@
     <h4>Ich möchte gar nicht gezählt werden!</h4>
     <p>Unser Webserver legt bei jedem Seitenaufruf einen Log-Eintrag an, der unter anderem einen Zeitstempel, deine IP-Adresse und die aufgerufene URL enthält. Es wäre also unaufrichtig, dir vorzumachen, dass dein Aufruf des OB-Mat nicht gezählt wird. Der OB-Mat wurde jedoch so konzipiert, dass aus den Server-Logdateien nicht ersichtlich ist, welche Antworten du ausgewählt hast. Dies sehen wir tatsächlich nur, wenn du dem am Ende explizit zustimmst.</p>
 
+    <h4>Änderungshistorie</h4>
+     <ul>
+      <li>Wir bekamen mehrfach die Rückfrage, ob mit der These 19 (strikte Grenzen für Geschoßhöhen) die Höhe <emph>einzelner</emph> Geschoße gemeint sei. Tatsächlich war die Gesamthöhe der jeweiligen Neubauten gemeint (als Ergebnis der Anzahl der Stockwerke). <i>Erläuterungstext am 6.11. der Frage hinzugefügt</i></li>
+      <li>Frau Caliskan hat kurz nach Veröffentlichung ihre ersten Antworten nachgereicht <i><a href='https://github.com/UlmApi/mahlowat/commit/5cd8d66819f23ebb3d5b2fa787bd7c30526952dd'>am 6.11. um 12:48 nachgetragen</a></i></li>
+      <li>Herr Rivoir ließ seine fehlerhaft angegebene Antwort zu These 15 (Bürgerbeteiligung Haushalt) passend zu seiner Erläuterung korrigieren <i>Geändert am 6.11. um 13:16</i></li>
+     </ul>
+
     <h4>Ich habe einen Fehler gefunden!</h4>
     <p>Dann solltest du das melden ;) Wir freuen uns über sachdienliche Hinweise!</p>
 
