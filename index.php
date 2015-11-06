@@ -74,7 +74,7 @@ $baseurl = "http://" . $_SERVER['SERVER_NAME'] . $uri_parts[0];
 
 
 
-    <div class="shariff" data-url="<?php echo $baseurl; ?>" data-referrer-track=null></div>
+    <div class="shariff" data-title="Der OB-Mat – das Wahlentscheidungswerkzeug von @UlmAPI zur #obwahlulm" data-url="<?php echo $baseurl; ?>" data-referrer-track=null></div>
     <script src="shariff/shariff.min.js"></script>
   </div>
 
