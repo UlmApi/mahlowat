@@ -219,7 +219,7 @@
 	</div>
 
 
-    <div class="shariff" data-title="Ich habe den OB-Mat von @UlmAPI zur #obwahlulm gemacht:" data-url="<?php echo $baseurl; ?>" data-referrer-track="<?php echo $sharelink; ?>"></div>
+    <div class="shariff" data-title="Ich habe den OB-Mat von @UlmAPI zur #obwahlulm ausprobiert:" data-url="<?php echo $baseurl; ?>" data-referrer-track="<?php echo $sharelink; ?>"></div>
     <div class="text-right">
       <small>Du kannst die Befragung
       <a href="index.php" title="Von vorn beginnen">neu starten</a><?php if($bars_only){echo '.';} else {?>,
